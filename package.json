@@ -1,0 +1,15 @@
+{
+  "name": "js-pgms",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varshini",
+  "license": "ISC",
+  "description": "My First Node and Express BMI Calculator",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
